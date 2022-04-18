@@ -11,4 +11,6 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/home/)
+[Get Started](/readme)
+
+<!-- 背景图片 -->
